@@ -1,0 +1,13 @@
+{
+  "name": "koa-form-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wayou/koa-form-example",
+  "author": "wayou <liuwayong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.6",
+    "koa-router": "^7.4.0"
+  }
+}
