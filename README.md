@@ -14,11 +14,11 @@ $ yarn
 $ node server.js
 ```
 
-This start a server at `http://localhost:3000` and a POST action at `/submit`.
+This start a server at http://localhost:3000 and a POST action at `/submit`.
 
 ### Testing
 
-To submit form data, visit `http://localhost:3000` and click the submit button,
+To submit form data, visit http://localhost:3000 and click the submit button,
 or, suing curl form the command line by the following command:
 
 ```sh
